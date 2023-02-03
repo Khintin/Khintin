@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khintin
+- 👋 Hi, I’m Cristina
 - 👀 I’m interested in Web Developing and UX ...
 - 🌱 I’m currently learning/studying Front-End Developing at NOROFF SCHOOL OF TECHNOLOGY 
 - Email me at xtinasyv@outlook.com
