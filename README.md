@@ -5,6 +5,7 @@
 - Portfolio: https://deft-gingersnap-58f3aa.netlify.app/projects.html
 - Dribble:https://dribbble.com/TinaSyv
 - https://www.sololearn.com/certificates/CT-AHTXJBKV
+- https://www.sololearn.com/certificates/CC-5S1G3WAZ
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khintin&theme=dark&show_icons=true"/>
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khintin&layout=compact"/>
