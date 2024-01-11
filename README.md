@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cristina
-- 👀 I’m interested in Web Developing and UX ...
-- 🌱 I’m currently studying Front-End Developing at NOROFF SCHOOL OF TECHNOLOGY, and for additional learning i am taking courses at CODE WITH MOSH and SOLO LEARN
+- 👀 I’m interested in Web Developing and Graphic Design
+- 🌱 I studied Front-end Developer and I’m currently studying Graphic Design at NOROFF SCHOOL OF TECHNOLOGY, and for additional learning i am taking courses at CODE WITH MOSH 
 - Email me at xtinasyv@outlook.com
 - Portfolio: https://cristinasyv.com/
 - Dribble:https://dribbble.com/TinaSyv
